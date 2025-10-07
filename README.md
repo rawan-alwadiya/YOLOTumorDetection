@@ -46,8 +46,7 @@ This project supports **diagnostic assistance**, **medical image interpretation*
 **YOLOv8 Brain Tumor Detection Model**  
 - **Precision:** `91.16%`  
 - **Recall:** `96.87%`  
-- **mAP@50:** `96.63%`  
-- **mAP@50-95:** `82.1%`  
+- **mAP@50:** `96.63%`   
 
 These results show that the fine-tuned YOLOv8 model achieves **strong detection accuracy** and **robust generalization** across diverse MRI images.
 
@@ -102,14 +101,6 @@ This project demonstrates how **AI and deep learning** can assist in **medical d
 - Detect tumors faster and more accurately  
 - Support early diagnosis and treatment planning  
 - Advance research in **medical imaging AI**
-
----
-
-## **🔗 Project Links**
-
-- **Live App (Streamlit):** https://yolotumordetection-fny43wuxdseqglmbeudsrx.streamlit.app/  
-- **Hugging Face Repo:** https://huggingface.co/RawanAlwadeya/YOLOTumorDetection  
-- **LinkedIn Demo Post:** https://www.linkedin.com/posts/rawan-alwadeya-17948a305_machinelearning-medicalimaging-healthcareai-activity-7381092953752186880-Ul23?utm_source=share&utm_medium=member_desktop&rcm=ACoAAE3YzG0BAZw48kimDDr_guvq8zXgSjDgk_I  
 
 ---
 
