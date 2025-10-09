@@ -69,16 +69,6 @@ These results show that the fine-tuned YOLOv8 model achieves **strong detection 
 
 ---
 
-## **🚀 Deployment**
-
-Users can upload MRI images to instantly detect and visualize **tumorous regions** using bounding boxes and confidence scores — enabling **fast, reliable medical analysis**.
-
-**Live Links:**  
-- Streamlit App: [YOLOTumorDetection](https://yolotumordetection-fny43wuxdseqglmbeudsrx.streamlit.app/)  
-- Hugging Face Repo: [YOLOTumorDetection](https://huggingface.co/RawanAlwadeya/YOLOTumorDetection)
-
----
-
 ## **📚 Tech Stack**
 
 **Languages & Libraries:**  
@@ -86,12 +76,6 @@ Users can upload MRI images to instantly detect and visualize **tumorous regions
 - PyTorch, Ultralytics YOLOv8  
 - OpenCV, Matplotlib  
 - Streamlit (Deployment)  
-
-**Techniques:**  
-- Transfer learning  
-- Object detection & bounding box visualization  
-- Model evaluation (precision, recall, mAP)  
-- Web deployment with Streamlit and Hugging Face  
 
 ---
 
@@ -101,6 +85,15 @@ This project demonstrates how **AI and deep learning** can assist in **medical d
 - Detect tumors faster and more accurately  
 - Support early diagnosis and treatment planning  
 - Advance research in **medical imaging AI**
+
+---
+
+## **👩‍💻 Author**
+
+**Rawan Alwadeya**  
+AI Engineer | Generative AI Engineer | Data Scientist  
+- 📧 Email: r.wadia21@gmail.com 
+- 🌐 [LinkedIn Profile](https://www.linkedin.com/in/rawan-alwadeya-17948a305/)
 
 ---
 
